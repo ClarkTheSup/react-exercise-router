@@ -1,0 +1,44 @@
+.app{
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid;
+}
+
+.app > div{
+    padding: 50px;
+}
+
+navigator ul{
+    background-color: #eeeeee;
+    height: 50px;
+    margin: 0px;
+    border-bottom: 1px solid;
+}
+navigator ul li{
+    display: inline;
+    float: right;
+    margin: 10px;
+}
+
+#products ul{
+    list-style: none;
+    padding: 0px;
+}
+#products ul li a{
+    color:red;
+    text-decoration: none;
+}
+
+#productDetails ul{
+    list-style: none;
+    padding-left: 10px;
+}
+
+#productDetails li{
+    margin-bottom: 10px;
+}
+
+Switch{
+    margin: 50px;
+}
